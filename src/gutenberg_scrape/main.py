@@ -12,7 +12,7 @@ DOWNLOAD_DIR = "downloads"
 PROGRESS_FILE = "progress.json"
 LOG_FILE = "gutenberg_downloader.log"
 USER_AGENT = "Mozilla/5.0 (compatible; ProjectGutenbergDownloader/1.0)"
-MAX_RETRIES = 3
+MAX_RETRIES = 10
 RETRY_DELAY = 3  # seconds
 
 # === LOGGING ===
