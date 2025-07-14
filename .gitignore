@@ -8,3 +8,9 @@ wheels/
 
 # venv
 .venv
+/books
+/data
+/cache
+*.log
+*.json
+*.csv
